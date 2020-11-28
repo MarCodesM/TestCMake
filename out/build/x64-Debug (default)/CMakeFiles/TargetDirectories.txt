@@ -1,0 +1,5 @@
+C:/Users/amuri/Desktop/VSCodePro/TestCMake/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/amuri/Desktop/VSCodePro/TestCMake/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/amuri/Desktop/VSCodePro/TestCMake/out/build/x64-Debug (default)/TestCMake/CMakeFiles/edit_cache.dir
+C:/Users/amuri/Desktop/VSCodePro/TestCMake/out/build/x64-Debug (default)/TestCMake/CMakeFiles/TestCMake.dir
+C:/Users/amuri/Desktop/VSCodePro/TestCMake/out/build/x64-Debug (default)/TestCMake/CMakeFiles/rebuild_cache.dir
